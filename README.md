@@ -77,6 +77,7 @@
 | **[nordflow-tracker](https://github.com/helga2026/nordflow-tracker)** | NordFlow Tasks — трекер задач и проектов: канбан и списки, таймер, теги и приоритеты, северная палитра NordFlow | `HTML` `CSS` `JavaScript` |
 | **[mindbalance](https://github.com/helga2026/mindbalance)** | MindBalance — PWA-трекер ментального здоровья: ежедневный чек-ин, дневник эмоций, медитации, офлайн-режим | `PWA` `HTML` `Service Worker` |
 | **[vitamin-tracker](https://github.com/helga2026/vitamin-tracker)** | Веб-трекер витаминов и минералов (MVP): онбординг, дашборд дефицитов, анкета — mobile-first, данные в LocalStorage | `HTML` `LocalStorage` |
+| **[chatbot-beautysalon](https://github.com/helga2026/chatbot-beautysalon)** | «Алина» для Lumi Beauty Studio — чат-бот ВКонтакте для салона красоты: консультации по прайсу, расписание мастеров, запись клиента в Excel, LLM-диалоги | `PowerShell` `VK API` `LLM` |
 
 > 📌 *Список проектов пополняется — загляните в [мои репозитории](https://github.com/helga2026?tab=repositories), чтобы увидеть всё свежее.*
 
@@ -89,6 +90,7 @@ Frontend    : HTML5, CSS3, JavaScript (ES6+), адаптивная вёрстк�
 PWA         : Service Worker, manifest.webmanifest, офлайн-режим
 Данные      : LocalStorage, работа с API
 UI/UX       : дизайн в палитрах (NordFlow, тёмные темы), анимации на CSS
+Боты        : PowerShell 5.1, VK Long Poll API, интеграция с LLM (OpenAI-совместимый API)
 Инструменты : Git, GitHub, VS Code, DevTools
 AI          : LLM-интеграции, промпт-инжиниринг, вайб-кодинг
 ```
@@ -102,6 +104,8 @@ AI          : LLM-интеграции, промпт-инжиниринг, ва�
 ![LocalStorage](https://img.shields.io/badge/LocalStorage-FFA000?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![VK](https://img.shields.io/badge/VK-0077FF?style=flat-square&logo=vk&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 </div>
