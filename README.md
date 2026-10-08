@@ -74,10 +74,9 @@
 
 | 🚀 Проект | 📝 Описание | 🛠️ Стек |
 |:---|:---|:---|
-| **CRM для продаж** | Система управления клиентами: воронки, задачи, аналитика | `Next.js` `PostgreSQL` `Prisma` |
-| **Лендинг-конвертер** | Промо-сайт с интерактивными блоками и A/B-тестами | `React` `Tailwind` `Framer Motion` |
-| **Внутренняя панель** | Дашборд для команды: задачи, отчёты, уведомления | `TypeScript` `Node.js` `SQLite` |
-| **AI-бот поддержки** | Чат-бот со знаниями по продукту и эскалацией | `Python` `FastAPI` `LLM API` |
+| **[nordflow-tracker](https://github.com/helga2026/nordflow-tracker)** | NordFlow Tasks — трекер задач и проектов: канбан и списки, таймер, теги и приоритеты, северная палитра NordFlow | `HTML` `CSS` `JavaScript` |
+| **[mindbalance](https://github.com/helga2026/mindbalance)** | MindBalance — PWA-трекер ментального здоровья: ежедневный чек-ин, дневник эмоций, медитации, офлайн-режим | `PWA` `HTML` `Service Worker` |
+| **[vitamin-tracker](https://github.com/helga2026/vitamin-tracker)** | Веб-трекер витаминов и минералов (MVP): онбординг, дашборд дефицитов, анкета — mobile-first, данные в LocalStorage | `HTML` `LocalStorage` |
 
 > 📌 *Список проектов пополняется — загляните в [мои репозитории](https://github.com/helga2026?tab=repositories), чтобы увидеть всё свежее.*
 
@@ -124,8 +123,8 @@ AI        : LLM-интеграции, промпт-инжиниринг, вай�
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:helga@example.com)
+[![Telegram @neirohelga](https://img.shields.io/badge/Telegram-@neirohelga-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/neirohelga)
+[![Email missdove@mail.ru](https://img.shields.io/badge/Email-missdove%40mail.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:missdove@mail.ru)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/helga2026)
 
 </div>
