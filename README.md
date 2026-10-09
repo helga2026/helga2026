@@ -99,12 +99,19 @@
 
 | 🚀 Проект | 📝 Описание | 🛠️ Стек |
 |:---|:---|:---|
+| **[digital-showcase](https://github.com/helga2026/digital-showcase)** | Сайт-визитка фрилансера: портфолио, Apple-стиль, переход в Telegram | `React` `TypeScript` `Tailwind` |
+| **[psychologist-landing](https://github.com/helga2026/psychologist-landing)** | Лендинг психолога: спокойный дизайн, блок доверия, форма записи | `React` `TypeScript` `Tailwind` |
+| **[photographer-landing](https://github.com/helga2026/photographer-landing)** | Лендинг фотографа: портфолио-галерея, booking-блок | `React` `TypeScript` `Tailwind` |
+| **[dressbook-style](https://github.com/helga2026/dressbook-style)** | DressBook Style — лендинг о стиле и моде | `React` `TypeScript` `Tailwind` |
+| **[speak-bright-english](https://github.com/helga2026/speak-bright-english)** | Лендинг репетитора по английскому: заявки на пробное занятие | `React` `TypeScript` `Tailwind` |
+| **[smart-china-sourcing](https://github.com/helga2026/smart-china-sourcing)** | SinoSmartBuyer — лендинг байера на китайских маркетплейсах | `React` `TypeScript` `Tailwind` |
+| **[vet-health-center](https://github.com/helga2026/vet-health-center)** | Лендинг ветеринарного центра VetHealthCenter: услуги, запись, контакты | `React` `TypeScript` `Tailwind` |
+| **[ai-chat-guardian](https://github.com/helga2026/ai-chat-guardian)** | AI Smart Chat Guardian — лендинг умного AI-модератора для Telegram | `React` `TypeScript` `Tailwind` |
+| **[ai-dietolog-bot](https://github.com/helga2026/ai-dietolog-bot)** | AI-диетолог — Telegram-бот с персональными планами питания | `LLM` `Telegram` |
+| **[chatbot-beautysalon](https://github.com/helga2026/chatbot-beautysalon)** | «Алина» для Lumi Beauty Studio — чат-бот ВКонтакте для салона красоты: консультации по прайсу, расписание мастеров, запись клиента в Excel, LLM-диалоги | `PowerShell` `VK API` `LLM` |
 | **[nordflow-tracker](https://github.com/helga2026/nordflow-tracker)** | NordFlow Tasks — трекер задач и проектов: канбан и списки, таймер, теги и приоритеты, северная палитра NordFlow | `HTML` `CSS` `JavaScript` |
 | **[mindbalance](https://github.com/helga2026/mindbalance)** | MindBalance — PWA-трекер ментального здоровья: ежедневный чек-ин, дневник эмоций, медитации, офлайн-режим | `PWA` `HTML` `Service Worker` |
 | **[vitamin-tracker](https://github.com/helga2026/vitamin-tracker)** | Веб-трекер витаминов и минералов (MVP): онбординг, дашборд дефицитов, анкета — mobile-first, данные в LocalStorage | `HTML` `LocalStorage` |
-| **[chatbot-beautysalon](https://github.com/helga2026/chatbot-beautysalon)** | «Алина» для Lumi Beauty Studio — чат-бот ВКонтакте для салона красоты: консультации по прайсу, расписание мастеров, запись клиента в Excel, LLM-диалоги | `PowerShell` `VK API` `LLM` |
-| **[vet-health-center](https://github.com/helga2026/vet-health-center)** | Лендинг ветеринарного центра VetHealthCenter: услуги, запись, контакты | `React` `TypeScript` `Tailwind` |
-| **[psychologist-landing](https://github.com/helga2026/psychologist-landing)** | Лендинг психолога: спокойный дизайн, блок доверия, форма записи | `React` `TypeScript` `Tailwind` |
 
 > 📌 *Список проектов пополняется — загляните в [мои репозитории](https://github.com/helga2026?tab=repositories), чтобы увидеть всё свежее.*
 
