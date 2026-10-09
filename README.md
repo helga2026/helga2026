@@ -99,7 +99,7 @@
 
 | 🚀 Проект | 📝 Описание | 🛠️ Стек |
 |:---|:---|:---|
-| **[digital-showcase](https://github.com/helga2026/digital-showcase)** | Сайт-визитка фрилансера: портфолио, Apple-стиль, переход в Telegram | `React` `TypeScript` `Tailwind` |
+| **[digital-showcase](https://github.com/helga2026/digital-showcase)** | Сайт-портфолио фрилансера: кейсы с каруселями, услуги, оффер «Создаю бренды, которые продают» · [живой сайт](https://talent-magnifier.lovable.app) | `React` `TypeScript` `Tailwind` |
 | **[psychologist-landing](https://github.com/helga2026/psychologist-landing)** | Лендинг психолога: спокойный дизайн, блок доверия, форма записи | `React` `TypeScript` `Tailwind` |
 | **[photographer-landing](https://github.com/helga2026/photographer-landing)** | Лендинг фотографа: портфолио-галерея, booking-блок | `React` `TypeScript` `Tailwind` |
 | **[dressbook-style](https://github.com/helga2026/dressbook-style)** | DressBook Style — лендинг о стиле и моде | `React` `TypeScript` `Tailwind` |
@@ -122,6 +122,14 @@
 </p>
 
 <p align="center"><i>NordFlow Tasks — рабочее пространство команды: доски и списки, сроки, роли и уведомления. <a href="https://github.com/helga2026/nordflow-tracker">Репозиторий →</a></i></p>
+
+### 🖼️ В фокусе: сайт-портфолио
+
+<p align="center">
+  <img src="images/showcase-hero.png" alt="Сайт-портфолио фрилансера — hero-секция" width="850">
+</p>
+
+<p align="center"><i>Сайт-портфолио для малого бизнеса: кейсы (брендинг, SMM), услуги и переход в Telegram. <a href="https://talent-magnifier.lovable.app">Живой сайт →</a> · <a href="https://github.com/helga2026/digital-showcase">Репозиторий →</a></i></p>
 
 ---
 
