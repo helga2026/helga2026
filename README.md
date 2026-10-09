@@ -115,6 +115,14 @@
 
 > 📌 *Список проектов пополняется — загляните в [мои репозитории](https://github.com/helga2026?tab=repositories), чтобы увидеть всё свежее.*
 
+### 🖼️ В фокусе: NordFlow Tasks
+
+<p align="center">
+  <img src="images/nordflow-header.png" alt="NordFlow Tasks — трекер проектов и задач" width="850">
+</p>
+
+<p align="center"><i>NordFlow Tasks — рабочее пространство команды: доски и списки, сроки, роли и уведомления. <a href="https://github.com/helga2026/nordflow-tracker">Репозиторий →</a></i></p>
+
 ---
 
 ## 💻 Технологии
