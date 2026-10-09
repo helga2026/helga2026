@@ -103,6 +103,8 @@
 | **[mindbalance](https://github.com/helga2026/mindbalance)** | MindBalance — PWA-трекер ментального здоровья: ежедневный чек-ин, дневник эмоций, медитации, офлайн-режим | `PWA` `HTML` `Service Worker` |
 | **[vitamin-tracker](https://github.com/helga2026/vitamin-tracker)** | Веб-трекер витаминов и минералов (MVP): онбординг, дашборд дефицитов, анкета — mobile-first, данные в LocalStorage | `HTML` `LocalStorage` |
 | **[chatbot-beautysalon](https://github.com/helga2026/chatbot-beautysalon)** | «Алина» для Lumi Beauty Studio — чат-бот ВКонтакте для салона красоты: консультации по прайсу, расписание мастеров, запись клиента в Excel, LLM-диалоги | `PowerShell` `VK API` `LLM` |
+| **[vet-health-center](https://github.com/helga2026/vet-health-center)** | Лендинг ветеринарного центра VetHealthCenter: услуги, запись, контакты | `React` `TypeScript` `Tailwind` |
+| **[psychologist-landing](https://github.com/helga2026/psychologist-landing)** | Лендинг психолога: спокойный дизайн, блок доверия, форма записи | `React` `TypeScript` `Tailwind` |
 
 > 📌 *Список проектов пополняется — загляните в [мои репозитории](https://github.com/helga2026?tab=repositories), чтобы увидеть всё свежее.*
 
@@ -112,11 +114,12 @@
 
 ```text
 Frontend    : HTML5, CSS3, JavaScript (ES6+), адаптивная вёрстка, mobile-first
+Лендинги    : React, TypeScript, Vite, Tailwind CSS, Radix UI
 PWA         : Service Worker, manifest.webmanifest, офлайн-режим
 Данные      : LocalStorage, работа с API
 UI/UX       : дизайн в палитрах (NordFlow, тёмные темы), анимации на CSS
 Боты        : PowerShell 5.1, VK Long Poll API, интеграция с LLM (OpenAI-совместимый API)
-Инструменты : Git, GitHub, VS Code, DevTools
+Инструменты : Git, GitHub, VS Code, DevTools, Lovable
 AI          : LLM-интеграции, промпт-инжиниринг, вайб-кодинг
 ```
 
@@ -125,6 +128,11 @@ AI          : LLM-интеграции, промпт-инжиниринг, ва�
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-E44C65?style=flat-square)
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square)
 ![LocalStorage](https://img.shields.io/badge/LocalStorage-FFA000?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
